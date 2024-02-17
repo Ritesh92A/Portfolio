@@ -1,0 +1,17 @@
+body{
+    background-color: blueviolet;
+}
+nav{
+    margin: auto;
+    padding: 0%;
+    display:flexbox;
+    justify-content:space-between;
+    background-attachment: fixed;
+    background-color: antiquewhite;
+}
+li{
+    list-style: none;
+    display:inline-flex;
+    padding: 10px;
+    margin: 12px;
+}
